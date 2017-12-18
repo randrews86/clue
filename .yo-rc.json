@@ -1,0 +1,18 @@
+{
+  "generator-ng-fullstack": {
+    "appName": "clue-1.1",
+    "username": "ryan.andrews",
+    "userEmail": "ryan.andrews@polarisalpha.com",
+    "stack": "fullstack",
+    "repoHostUrl": "gitlab.com",
+    "userNameSpace": "namespace",
+    "client": "ng2",
+    "stylePreprocessor": "sass",
+    "server": "node",
+    "nodeWebFrameworkServer": "express",
+    "transpilerServer": "node",
+    "secure": false,
+    "testsSeparated": true,
+    "differentStaticServer": false
+  }
+}
